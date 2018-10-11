@@ -16,4 +16,5 @@ exampleslib
 examples/scripts/configs.json
 jquery.html
 docs/fonts/
+package-lock.json
 docs/ajax-loader.gif
